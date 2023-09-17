@@ -1,0 +1,14 @@
+{
+    "arduino.disableIntelliSenseAutoGen": true,
+    "files.associations": {
+        "arduino_homekit_server.h": "c",
+        "crypto.h": "c",
+        "ed25519.h": "c",
+        "types.h": "c",
+        "settings.h": "c",
+        "wc_port.h": "c",
+        "user_settings.h": "c",
+        "homekit_debug.h": "c",
+        "pairing.h": "c"
+    }
+}

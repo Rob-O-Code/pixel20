@@ -1,0 +1,8 @@
+{
+    "sketch": "Pixel20/Pixel20.ino",
+    "configuration": "CDCOnBoot=cdc,MSCOnBoot=default,DFUOnBoot=default,UploadMode=cdc,PSRAM=enabled,PartitionScheme=tinyuf2,CPUFreq=240,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,DebugLevel=none,EraseFlash=none",
+    "board": "esp32:esp32:adafruit_qtpy_esp32s2",
+    "output": "build",
+    "port": "/dev/tty.usbmodem11201",
+    "programmer": "esptool"
+}
